@@ -17,40 +17,39 @@
         "description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/homesteaddwellings_mapimage.jpg"
       }
     },
-	
-	{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-         -91.867887,
-        41.760300
-        ]
-      },
-      "properties": {
-        "name": "MY New PROPERTY",
-        "name_url": "http://www.nps.gov/nr/travel/amana/MNP.htm",
-        "description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/mynewproperty_mapimage.jpg"
-      }
-    },
-
-        "description": "Iowa",
-   
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -99.8993911743164, 
-          49.7954788208008
+          -91.8798422813416,
+          41.7618005722761
         ]
       },
       "properties": {
-        "name": "Schulwald",
-		"name_url": "http://www.nps.gov/nr/travel/amana/sch.htm",
+        "name": "Blacksmith Shop",
+		"name_url":  "http://www.nps.gov/nr/travel/amana/bls.htm",
         "description": "Iowa",
-		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/schulwald_mapimage.jpg"
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/blacksmithshop_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8797658383846,
+          41.7617831379175
+        ]
+      },
+      "properties": {
+        "name": "Drying House",
+		"name_url": "http://www.nps.gov/nr/travel/amana/dry.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/dryinghouse_mapimage.jpg"
       }
     }
+    
+    
   ]
 }

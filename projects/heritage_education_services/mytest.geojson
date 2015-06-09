@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8652267456055,
+          41.759220123291
+        ]
+      },
+      "properties": {
+        "name": "Homestead Dwellings",
+        "name_url": "http://www.nps.gov/nr/travel/amana/hod.htm",
+        "description": "Iowa",
+        "description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/homesteaddwellings_mapimage.jpg"
+      }
+    },
+	
+	{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8652267456055,
+          41.759220123291
+        ]
+      },
+      "properties": {
+        "name": "MY New PROPERTY",
+        "name_url": "http://www.nps.gov/nr/travel/amana/MNP.htm",
+        "description": "Iowa",
+        "description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/mynewproperty_mapimage.jpg"
+      }
+    },
+
+   
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.8993911743164, 
+          49.7954788208008 
+        ]
+      },
+      "properties": {
+        "name": "Schulwald",
+		"name_url": "http://www.nps.gov/nr/travel/amana/sch.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/schulwald_mapimage.jpg"
+      }
+    }
+  ]
+}

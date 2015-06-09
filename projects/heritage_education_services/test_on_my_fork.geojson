@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8652267456055,
+          41.759220123291
+        ]
+      },
+      "properties": {
+        "name": "Homestead Dwellings",
+        "name_url": "http://www.nps.gov/nr/travel/amana/hod.htm",
+        "description": "Iowa",
+        "description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/homesteaddwellings_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8798422813416,
+          41.7618005722761
+        ]
+      },
+      "properties": {
+        "name": "Blacksmith Shop",
+		"name_url":  "http://www.nps.gov/nr/travel/amana/bls.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/blacksmithshop_mapimage.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8797658383846,
+          41.7617831379175
+        ]
+      },
+      "properties": {
+        "name": "Drying House",
+		"name_url": "http://www.nps.gov/nr/travel/amana/dry.htm",
+        "description": "Iowa",
+		"description_url":  "http://www.nps.gov/nr/travel/amana/bingmap_images/dryinghouse_mapimage.jpg"
+      }
+    }
+    
+    
+  ]
+}
